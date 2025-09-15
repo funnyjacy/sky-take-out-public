@@ -8,9 +8,8 @@
 6. 前端：直接点击前端运行环境/nginx.exe，在80端口运行
 7. 微信小程序：导入微信小程序到微信开发者工具、由于没有商户号，这里修改逻辑跳过支付程序
 8. 项目运行示例：
+9. ![R31W}3T2H4QECNT@}NZCSPQ](./example/R31W}3T2H4QECNT@}NZCSPQ.png)
 
-![R31W}3T2H4QECNT@}NZCSPQ](C:\Users\Administrator\AppData\Roaming\Tencent\QQ\Temp\R31W}3T2H4QECNT@}NZCSPQ.png)
+![image-20250915221553245](./example/image-20250915221553245.png)
 
-![image-20250915221553245](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250915221553245.png)
-
-![image-20250915222047931](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250915222047931.png)
+![image-20250915222047931](./example/image-20250915222047931.png)
